@@ -8,7 +8,7 @@
 <tspan x="10" y="90">  ├─┬ coffee-script@1.7.1 </tspan>
 <tspan x="10" y="106">  │ └── mkdirp@0.3.5 </tspan>
 <tspan x="10" y="122">  ├── coffeescript-module@0.2.1 </tspan>
-<tspan x="10" y="138">  ├── iconv-lite@0.4.15 </tspan>
+<tspan x="10" y="138">  ├── iconv-lite@0.4.16 </tspan>
 <tspan x="10" y="154">  ├── jspack@0.0.4 </tspan>
 <tspan x="10" y="170">  ├── lodash@2.4.2 </tspan>
 <tspan x="10" y="186">  ├── parse-engine-data@0.1.2 </tspan>
